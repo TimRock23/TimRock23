@@ -1,4 +1,4 @@
-### Hello world! My name is Timur. I`m a Junior Python developer (Django) and I`m searching for a job 👋
+### Hello world! My name is Timur. I’m a Junior Python developer (Django) and I’m searching for a job 👋
 
 - 🌱 I’m currently studyind in Yandex.Praktikum in the direction of Python developer.
 - 🔭 I’m currently working on a diploma project.
