@@ -3,8 +3,8 @@
 - 🌱 I’m currently studyind at Yandex.Praktikum in the direction of Python developer.
 - 🔭 I’m currently working on a diploma project.
 - 📫 How to reach me: 
-  * tg -> @TimRock23; 
-  * mail -> timur_kh@mail.ru
+         * tg -> @TimRock23; 
+         * mail -> timur_kh@mail.ru
 <!--
 **TimRock23/TimRock23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
