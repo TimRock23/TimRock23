@@ -1,7 +1,6 @@
-### Hello world! My name is Timur. I’m a Junior Python developer (Django) and I’m searching for a job 👋
+### Hello world! My name is Timur. I’m a Python developer (Django) 👋
 
-- 🌱 I’m currently studyind at Yandex.Praktikum in the direction of Python developer.
-- 🔭 I’m currently searching for a job.
+- 🌱 I’m currently studying at Yandex.Praktikum in the direction of Python developer.
 - 📫 How to reach me: 
   * tg -> @TimRock23; 
   * mail -> timur_kh@mail.ru
