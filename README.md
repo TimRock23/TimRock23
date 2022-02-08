@@ -1,6 +1,6 @@
 ### Hello world! My name is Timur. I’m a Python developer (Django) 👋
 
-- 🌱 I’m currently working in Russian Spase Sistems as Python developer.
+- 🌱 I’m currently working in Russian Spase Systems as Python developer.
 - 📫 How to reach me: 
   * tg -> @TimRock23; 
   * mail -> timur_kh@mail.ru
